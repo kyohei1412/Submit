@@ -3,7 +3,7 @@
 就職活動の提出用に、制作物のリポジトリをまとめています。
 
 ## 1. Androidアプリ：健康管理アプリ
-- GitHub：https://github.com/ユーザー名/health-care-application
+- GitHub：https://github.com/kyohei1412/Healthcareapplication
 - 概要：Realmを使用して健康データを登録・一覧表示・検索できるアプリ
 
 ## 2. ESP32：スマートロック
