@@ -11,7 +11,7 @@
 - 概要：ESP32 + サーボで施錠/解錠をWeb操作できるスマートロック
 
 ## 3. HTML/JavaScript作品集（3作品）
-- GitHub：https://github.com/ユーザー名/html-works
+- GitHub：https://github.com/kyohei1412/html
 - GitHub Pages（動作確認）：
   - 電卓：https://ユーザー名.github.io/html-works/calculator.html
   - Canvas：https://ユーザー名.github.io/html-works/canvas1.html
