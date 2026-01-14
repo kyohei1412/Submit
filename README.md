@@ -13,6 +13,6 @@
 ## 3. HTML/JavaScript作品集（3作品）
 - GitHub：https://github.com/kyohei1412/html
 - GitHub Pages（動作確認）：
-  - 電卓：https://ユーザー名.github.io/html-works/calculator.html
-  - Canvas：https://ユーザー名.github.io/html-works/canvas1.html
-  - 時計：https://ユーザー名.github.io/html-works/clock.html
+  電卓（calculator.html）：数式を入力して「＝」で計算結果を表示する、入力制限付きのシンプル電卓です。
+  Canvasアニメーション（canvas1.html）：壁反射で動くボールが衝突で色変化し、一定回数で増殖するCanvasアニメーションです。
+  時計（clock.html）：アナログ＋デジタル表示と日付・曜日を1秒ごとに更新するCanvas時計です。
