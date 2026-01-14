@@ -7,7 +7,7 @@
 - 概要：Realmを使用して健康データを登録・一覧表示・検索できるアプリ
 
 ## 2. ESP32：スマートロック
-- GitHub：https://github.com/ユーザー名/smart-lock-esp32
+- GitHub：https://github.com/kyohei1412/SmartLockKey
 - 概要：ESP32 + サーボで施錠/解錠をWeb操作できるスマートロック
 
 ## 3. HTML/JavaScript作品集（3作品）
